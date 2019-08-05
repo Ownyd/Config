@@ -1,0 +1,12 @@
+{
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.editor.showTabs": true,
+    "terminal.integrated.rendererType": "dom",
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 12,
+    "editor.fontLigatures": true,
+    "terminal.integrated.shell.osx": "/bin/zsh",
+}
