@@ -1,0 +1,16 @@
+tap "caskroom/fonts"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+tap "homebrew/services"
+brew "elasticsearch@5.6", restart_service: true
+brew "mongodb", restart_service: true
+brew "mongoose"
+brew "mysql"
+brew "postgresql"
+brew "unrar"
+brew "yarn"
+cask "java8"
+cask "minikube"
+cask "caskroom/fonts/font-fira-code"
